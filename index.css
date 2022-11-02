@@ -1,0 +1,14 @@
+@font-face {
+    font-family: Alata;
+    src: url("fonts/Alata-Regular.ttf");
+  }
+  @font-face{
+    fpnt-family: JosefinSans;
+    src: url("fonts/JosefinSans-VariableFont_wght.ttf");
+  }
+  .Alata{
+    font-family: Alata;
+  }
+  .JosefinSans{
+    font-family: JosefinSans;
+  }
