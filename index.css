@@ -22,4 +22,9 @@
   }
   .nav-link{
     color:white;
+    font-family: Alata;
+    font-size: 0.83rem;
+  }
+  .nav-item{
+    margin-right: 1rem;
   }
