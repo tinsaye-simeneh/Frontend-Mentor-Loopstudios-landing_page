@@ -1,14 +1,22 @@
 @font-face {
     font-family: Alata;
     src: url("fonts/Alata-Regular.ttf");
+    font-wieght: 400;
   }
   @font-face{
     fpnt-family: JosefinSans;
     src: url("fonts/JosefinSans-VariableFont_wght.ttf");
-  }
+    font-wieght: 300;
+}
   .Alata{
     font-family: Alata;
   }
   .JosefinSans{
     font-family: JosefinSans;
+  }
+  .bg-dark{
+    background-color: hsl(0, 0%, 0%);
+  }
+  .text-darkgray{
+    color: hsl(0, 0%, 42%);
   }
