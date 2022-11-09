@@ -1,7 +1,6 @@
 @font-face {
   font-family: Alata;
   src: url("fonts/Alata-Regular.ttf");
-  font-wieght: 400;
 }
 @font-face {
   fpnt-family: JosefinSans;
@@ -24,6 +23,7 @@
   color: white;
   font-family: Alata;
   font-size: 0.83rem;
+  font-weight: 400;
 }
 .nav-item {
   margin-right: 1rem;
