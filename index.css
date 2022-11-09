@@ -30,6 +30,8 @@
 }
 .immersive-text{
   margin-left: 6rem;
+  margin-top: 6rem;
+  padding-right: 2rem;
 }
 .immersive-text h1{
   font-family: JosefinSans;
