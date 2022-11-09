@@ -6,14 +6,6 @@
 @font-face {
   fpnt-family: JosefinSans;
   src: url("fonts/JosefinSans-VariableFont_wght.ttf");
-  font-wieght: 300;
-}
-.Alata {
-  font-family: Alata;
-  font-wieght: 400;
-}
-.JosefinSans {
-  font-family: JosefinSans;
 }
 .attribution {
   font-size: 11px;
@@ -37,11 +29,11 @@
   margin-right: 1rem;
 }
 .immersive-text{
-  display: block;
+  margin-left: 6rem;
+}
+.immersive-text h1{
   font-family: JosefinSans;
-  font-size: 3.5rem;
-  font-wieght: 300;
-  color: white;
-  margin-left: 8%;
-  padding-left: 5%;
+  font-size: 3rem;
+  font-weight: 300;
+  line-height: 1.2;
 }
