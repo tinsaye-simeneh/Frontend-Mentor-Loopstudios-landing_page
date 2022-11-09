@@ -39,3 +39,8 @@
   font-weight: 300;
   line-height: 1.2;
 }
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
