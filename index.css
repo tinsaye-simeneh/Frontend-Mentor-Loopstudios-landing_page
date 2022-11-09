@@ -36,3 +36,10 @@
 .nav-item {
   margin-right: 1rem;
 }
+.imm-text{
+  font-family: JosefinSans;
+  font-size: 1.5rem;
+  font-wieght: 300;
+  color: white;
+  margin-left: 8%;
+}
