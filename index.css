@@ -25,6 +25,11 @@
   font-size: 0.83rem;
   font-weight: 400;
 }
+.nav-link:hover{
+  color: white;
+  border-bottom: 3px solid white;
+  border-width: 3px;
+}
 .nav-item {
   margin-right: 1rem;
 }
@@ -74,8 +79,23 @@
 .mobile-btm-nav{
   display: none;
 }
+.seemore{
+  background-color: white;
+}
+.seemore:hover{
+  color:white;
+  background-color: black;
+}
 
 @media screen and (max-width: 768px) {
+  .nav-link{
+    text-align:center;
+  }
+  .nav-link:hover{
+    text-align:center;
+    text-decoration: none;
+    width: 100%;
+  }
   .immersive-text {
     margin-left: 3rem;
     margin-top: 8rem;
