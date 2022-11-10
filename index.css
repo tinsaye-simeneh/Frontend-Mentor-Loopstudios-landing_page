@@ -68,6 +68,12 @@
 .bottom-nav{
   padding-left: 2.5rem;
 }
+.desktop-btm-nav{
+  display: block;
+}
+.mobile-btm-nav{
+  display: none;
+}
 
 @media screen and (max-width: 768px) {
   .immersive-text {
@@ -119,5 +125,11 @@
   }
   .social-icons{
     margin-top: 2rem;
+  }
+  .desktop-btm-nav{
+    display: none;
+  }
+  .mobile-btm-nav{
+    display: block;
   }
 }
