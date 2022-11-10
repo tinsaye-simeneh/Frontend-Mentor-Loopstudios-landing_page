@@ -32,8 +32,8 @@ Users should be able to:
 ![](./screenshot.png)
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/html-css-bootstrap-desktop-first-workflow-p61ttMIRxF](https://www.frontendmentor.io/solutions/html-css-bootstrap-desktop-first-workflow-p61ttMIRxF)
-- Live Site URL: [https://fm-card-component-eight.vercel.app/](https://fm-card-component-eight.vercel.app/)
+- Solution URL: []()
+- Live Site URL: []()
 
 ## My process
 
