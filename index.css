@@ -93,6 +93,13 @@
 .card-img:hover{
   opacity: 0.5;
 }
+.card-text{
+  color: white;
+}
+.card-img:hover .card-text{
+  opacity: 1;
+  color: black;
+}
 
 @media screen and (max-width: 768px) {
   .top-container{
